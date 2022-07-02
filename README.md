@@ -3,4 +3,4 @@ Refresh to play : A two player-game of rolling a dice
 
 Website Link : https://sriramsanthosh.github.io/Dice-Game/
 
-![Screenshot (2531)](https://user-images.githubusercontent.com/95128072/176985938-86b9d91c-c510-49d0-b99a-45b227cc261a.png)
+![Screenshot (2535)](https://user-images.githubusercontent.com/95128072/176987233-5f45aa51-1e15-40fd-91c3-eec9bc39076f.png)
